@@ -30,5 +30,9 @@
     "projects_3_extended_overview": "Myanmar Imperial University, formerly Myanmar Imperial College, is a private university in Yangon, Myanmar, located in Dagon Township's Phayagyi ward.",
     "contact_full_name": "Full name",
     "contact_email": "E-mail adress",
-    "contact_btn": "Send message"
+    "message": "Message",
+    "contact_btn": "Send message",
+    "contact": "Contact",
+    "experience": "Experience",
+    "successful_send_msg":"Your message has been successfully sent, I'll reply as soon as possible."
 }
